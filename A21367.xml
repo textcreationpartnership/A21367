@@ -1,0 +1,373 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Here begynneth the dyfference of astronomye with the gouernayle to kepe mans body in helth, all the foure seasons of the yeare.</title>
+            <title>Secretum secretorum. Selections. English.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1555</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 31 KB of XML-encoded text transcribed from 21 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21367</idno>
+            <idno type="STC">STC 770.7</idno>
+            <idno type="STC">ESTC S109574</idno>
+            <idno type="EEBO-CITATION">99845221</idno>
+            <idno type="PROQUEST">99845221</idno>
+            <idno type="VID">10108</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A21367)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 10108)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 34:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Here begynneth the dyfference of astronomye with the gouernayle to kepe mans body in helth, all the foure seasons of the yeare.</title>
+                  <title>Secretum secretorum. Selections. English.</title>
+                  <author>Aristotle, attributed name.</author>
+               </titleStmt>
+               <extent>[40] p.   </extent>
+               <publicationStmt>
+                  <publisher>Imprynted by me Robert wyer, dwellynge at the sygne of Seynt Ioh[a]n Euangelyst, in Seynt Martyns Parysshe besyde Charynge Crosse,</publisher>
+                  <pubPlace>[[London] :</pubPlace>
+                  <date>[1555?]]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Extract from the: Secretum secretorum.</note>
+                  <note>Sometimes attributed to Aristotle.</note>
+                  <note>Imprint from colophon; suggested publication date from STC.</note>
+                  <note>Signatures: A-E⁴.</note>
+                  <note>Formerly STC 6837.</note>
+                  <note>Identified as STC 6837 on UMI microfilm.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hygiene --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-03</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:10108:1" rendition="simple:additions"/>
+            <pb facs="tcp:10108:1" rendition="simple:additions"/>
+            <p>
+               <figure>
+                  <figDesc>decorative border</figDesc>
+               </figure>
+            </p>
+            <p>¶ Here bigyn<g ref="char:EOLunhyphen"/>neth the dyfference of a<g ref="char:EOLhyphen"/>ſtronom, with the gouer<g ref="char:EOLhyphen"/>nayle to kepe mans body in helth, all the foure ſeaſons of the yeare.</p>
+            <p>
+               <figure>
+                  <figDesc>woodcut of astronomer surrounded by four stars</figDesc>
+               </figure>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <div type="part">
+               <pb facs="tcp:10108:2"/>
+               <head>¶ Of the dyfference of aſtronomy.</head>
+               <p>
+                  <seg rend="decorInit">A</seg>Lexander fay<g ref="char:EOLhyphen"/>reſone, I praye the that yf thou mayſt do it, that thou ry<g ref="char:EOLhyphen"/>ſe not, nor eate, nor drynke, nor do any other thynge, but by the councell of ſomethat knoweth and hath the ſcyence in knowlegynge the ſterres and aſtronomye. And thou ſhalt wyte my dere ſone that almygh<g ref="char:EOLunhyphen"/>ty god hath made nothynge without cauſe, but hath done euery thynge rea<g ref="char:EOLunhyphen"/>ſonably. And by certayne ſcyences &amp; wayes, the wyſe phylozopher Platon ſought and felte the operacyons of all thynges compoſed of the foure ele<g ref="char:EOLunhyphen"/>mentes, &amp; the humoures contraryes. And hadde alſo the knowledge of the thynges created and formed. And al<g ref="char:EOLhyphen"/>ſo my dere ſone Alexander I praye the
+<pb facs="tcp:10108:2"/> beleue not ſuche fooles whiche ſaye that the ſcyence of the planettes is ſo harde to be knowen, and that none maye come therto. Surely they be fooles and wote not what they ſaye. It is a noble thynge to knowe thyn<g ref="char:EOLhyphen"/>ges whiche be to come. Yf thou kno<g ref="char:EOLhyphen"/>weſt the thynges whiche be to come, thou and other perſons maye put re<g ref="char:EOLhyphen"/>medy by good prayers. And requyre the creatoure that hath ordeyned the<g ref="char:cmbAbbrStroke">̄</g> to retourne theyr malyce, and ordeyne them otherwyſe. Thynke nor dere ſone that god hath ordeyned and pre<g ref="char:EOLhyphen"/>deſtynate ſuch thynges, but that by his power he maye chaunge them o<g ref="char:EOLhyphen"/>therwyſe whan he pleaſeth. Wyte thou dereſonne that the good people praye to our creatoure with oryſons and deuout petycyons, by faſtynge &amp; ſacrefyces, byalmeſſe and other ma<g ref="char:EOLhyphen"/>ner, axynge of pardon of theyr ſynnes and doynge penaunce, that our lorde maye retorne and remembre ſuche pre<g ref="char:EOLunhyphen"/>deſtynacyons
+<pb facs="tcp:10108:3"/> whiche other do feare ſo moche. ¶ Retorne we dereſone to our fyrſte purpoſe, wyte thou that a<g ref="char:EOLhyphen"/>ſtronomye is deuyſed in. iiij. partes. That is to wyte in ordynaunce of ſterres, In the dyſpoſycyon, of ſyg<g ref="char:EOLhyphen"/>nes, and of theyr elongacyons. Of the mouynge of the ſonne. And this partre is called ſcyence of aſtronomy: The other parte is of the knowledge of the mouynge of the ſayes &amp; of the moone. And this partye is called a<g ref="char:EOLhyphen"/>ſtronomye. And is the worthyeſt, of ſterres, planettes, and ſygnes. And, there is M. xxviij. planettes ſygned and formed, of the whiche we ſhall ſpeke more playnly.</p>
+            </div>
+            <div type="part">
+               <head>¶ Of the gouernayle of helth.</head>
+               <p>
+                  <seg rend="decorInit">H</seg>Ealth amonge all thynges is to be gott<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n &amp; hath more tha<g ref="char:cmbAbbrStroke">̄</g> any myght of r<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cheſſes. For the kepynge of helth is by vsynge of equall thynges conioy<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ned
+<pb facs="tcp:10108:3"/> to the<g ref="char:cmbAbbrStroke">̄</g> body, as by aftemperaunce of humoures. For the gloryous god hath ordeyned them, and gyuen dy<g ref="char:EOLhyphen"/>uers remedyes to the aftemperaunce of the humoures to the kepynge of helth. And hath ſhewed it to his holy men and prophetes, and to many o<g ref="char:EOLhyphen"/>ther Iuſt men whiche he dyde chuſe and enlumyned with the holy ghoſte, in his ſapyence dyuyne, and myghty. And hath gyuen them the gyftes of the ſcyence of theſe thynges here af<g ref="char:EOLhyphen"/>ter folowynge. Theſe phyloſophers put the begynnynge of it. That is to wytte they of ynde, of Grece, and of Athenes. Whiche phyloſophers were Iuſt and perfyte, and theyr wr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tyn<g ref="char:EOLhyphen"/>ges were the begynnynge of ſcyence and ſecretes. For in theyr wrytynges is nothynge fou<g ref="char:cmbAbbrStroke">̄</g>de to be reproued nor ſp<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ylt, but approued of all wyſemen<g ref="char:punc">▪</g>
+               </p>
+            </div>
+            <div type="part">
+               <head>¶ Of the gouernayle of ſycke people.</head>
+               <pb facs="tcp:10108:4"/>
+               <p>
+                  <seg rend="decorInit">A</seg>Ll wyſe and naturall phy<g ref="char:EOLunhyphen"/>loſophers ſaye that man is made and compoſed of foure contrary humours, the whiche haue alwaye nede to be ſuſteyned with meate and drynke. The ſubſtaunce wherof beho<g ref="char:EOLhyphen"/>ueth to yſſue and be corrupte yf any do alwaye eate and drynke, and he ſhulde waxe weyke and fall in great dyſeſes and haue many inconuenyences. But yf he eate and drynke temperatly and he ſhall fynde helpe of lyfe, ſtrength of body, and helth of all the membres The wyſe phyloſophers ſaye that yf any man treſpace the god of nature, and the good maner of lyuynge, be it into moche eatynge and drynkynge, or to moche ſlepynge, or wakynge, in<g ref="char:EOLunhyphen"/>to moche walkynge or reſtynge, be<g ref="char:EOLhyphen"/>ynge to laxatyfe, or to moche lettyn<g ref="char:EOLhyphen"/>ge of blode or to lytell, it can not be but he muſt fall into many dyſeaſes, and greues. Of the whiche dyſeaſes
+<pb facs="tcp:10108:4"/> I haue bryefly founde, and therin I wyll ſhewethe my councell, and reme<g ref="char:EOLunhyphen"/>dy for the ſame. All wyſe Phyloſo<g ref="char:EOLhyphen"/>phers accordeth in one ſaynge. Who ſo kepeth hym fro ouer moche eatyn<g ref="char:EOLhyphen"/>ge and drynkynge, &amp; from that exceſ<g ref="char:EOLhyphen"/>ſes aforeſayde, and kepeth temperau<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>ce, he ſhall be helthfull of his bodye / and lyue longe. For I can fynde no man but he is of this opynyon, and wylſay that aldelectable thynges of the worlde, be it inpleaſure of the bo<g ref="char:EOLhyphen"/>dy, it is but for to lyue the longer in them. But for a more ſecrete ye ought to enforce you to do ſuche thynges as ben belongynge to longe lyfe, and not to folowethe appetyte, that is to wyt not to put lye meate vpon <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eate. And dere ſone I haue herde often ſpoken of ypocras whiche kepte manytymes dyete to the ende that he myght lyue andendure the longer. Not for to ly<g ref="char:EOLhyphen"/>ue and endure for the meate and dryn<g ref="char:EOLunhyphen"/>ke. Alſo dere ſone it is great holſom<g ref="char:EOLhyphen"/>neſſe
+<pb facs="tcp:10108:5"/> to be purged of ſuperfluytes &amp; euyll humours whiche ben in y<hi rend="sup">e</hi> body.</p>
+            </div>
+            <div type="part">
+               <head>¶ In howe many maners a man maye kepe his health.</head>
+               <p>
+                  <seg rend="decorInit">G</seg>Ood ſone I praye the haue in thy mynde ſtedfaſtly the<g ref="char:EOLhyphen"/>ſe certayne inſtruccyons &amp; kepe the<g ref="char:cmbAbbrStroke">̄</g>. Knowe thou that helth is chyefly in two thyn<g ref="char:EOLunhyphen"/>ges. The fyrſt is let a man vſe ſuche meates and drynkes as he hath ben nouryſſhed with. The ſeconde that he purge hym of yll humours that be corrupte and greue hym. For the body of man is fedde with meates &amp; dryn<g ref="char:EOLhyphen"/>kes whiche nouryſſhe it by naturall heate that dryeth, nouryſſheth and fedeth the moyſtneſſe therof.</p>
+            </div>
+            <div type="part">
+               <head>¶ Of dyuers meates for the ſtomacke.</head>
+               <pb facs="tcp:10108:5"/>
+               <p>
+                  <seg rend="decorInit">W</seg>Han the body is fatte and ful of vapours, groſſe mea<g ref="char:EOLunhyphen"/>tes is good for it. And of the nouryſſhynge of ſuche a bodye, the dygeſtyon is groſſe, and of great quantyte for the great heate, and vapours of the body And when the body is ſclender &amp; dry a ſubtyll and moyſte meates be good for it. And the dygeſtyon therof is of ſmall quantyte for the ſtreytneſſes of the conduytes. And it is great wyſ<g ref="char:EOLhyphen"/>dome and ſcyence for a man to vſe ſuche meates as ben good and apper<g ref="char:EOLhyphen"/>tenent to his complexyon, that is to wyt yf he fede hym with hote meates temperatly But yf the heate be to gre<g ref="char:EOLunhyphen"/>uous and brennynge with in the body by ouer ſtronge wynes and hote mea<g ref="char:EOLhyphen"/>tes, or other accydentes than contra<g ref="char:EOLunhyphen"/>ry meates and drynkes wyll do great eaſe and profyte, that is to wyt ſu<g ref="char:EOLhyphen"/>che as bencolde.</p>
+               <div type="section">
+                  <head>¶ Of the ſtomacke.</head>
+                  <pb facs="tcp:10108:6"/>
+                  <p>¶ Yf the ſtomacke be to hote, than ho<g ref="char:EOLunhyphen"/>te &amp; cours meates be good. For ſuche a ſtomacke is lyke a myghty fyre for to brenne great weyght of logges. But whan the ſtomacke is colde and feble than it is good to haue light and ſubtyll meates.</p>
+               </div>
+               <div type="section">
+                  <head>¶ The ſygnes to knowledge the ſtomacke.</head>
+                  <p>¶ The ſygnes of a ſtomacke that is of an yll and weyke dygeſtyon is wha<g ref="char:cmbAbbrStroke">̄</g> the body is vnluſty, heuy, and ſlothful the face is ſwollen, and he yaneth of<g ref="char:EOLhyphen"/>ten, and hath payne in his eyen, and holketh often and rudely and the bol<g ref="char:EOLhyphen"/>kynge is ſowre and vnſauery, watry and ſtyukynge, and therby is bredde wyndes and ſwellynge of the bely &amp; the appetyre of meate is marde. Ther<g ref="char:EOLunhyphen"/>fore ſwete ſone be ware of meates &amp; drynkes that may hurte or becontra<g ref="char:EOLhyphen"/>ry to thy health.</p>
+               </div>
+            </div>
+            <div type="epistle">
+               <head>¶ An epyſtle of great value.</head>
+               <pb facs="tcp:10108:6"/>
+               <p>
+                  <seg rend="decorInit">M</seg>Oſte dere ſone Alexander ſythe it is ſo that the bo<g ref="char:EOLhyphen"/>dy of man is corruptyble by dyuerſyte of complexy<g ref="char:EOLhyphen"/>on, and of contrarye hu<g ref="char:EOLhyphen"/>mours that be in it, wherby ofte<g ref="char:cmbAbbrStroke">̄</g> there co<g ref="char:cmbAbbrStroke">̄</g>meth corrupcyon to it, I thought to delyuer the ſome thynge that ſhall be neceſſary and profetable to the. In the whiche I wyll treate of the ſecre<g ref="char:EOLhyphen"/>tes of phyſyke whiche ſhall pleaſe the For certayne dyſeaſes come to a kyng whiche be not honeſt to ſhewe to phy<g ref="char:EOLhyphen"/>ſycyons. And yf thou wylt obſerue this leſſon, thou ſhalt haue no nede of Phyſycyons, except in cauſes that may come in battayle, the which may be exchewed. Alexander fayre ſone whan thou ryſeſt from thy ſlepe, wal<g ref="char:EOLunhyphen"/>ke and ſtretche thy membres eqally and combe thy heed, for ſtretchynge of the lymbes gyueth force, and com<g ref="char:EOLhyphen"/>bynge reyſeth the vapours that ben come in ſlepynge and putteth them
+<pb facs="tcp:10108:7"/> from the ſtomacke. In ſomer waſ ſhe thy heed in colde water, whiche ſhall yelde the naturall heate, and ſhall be<g ref="char:EOLunhyphen"/>cauſe of appetyte to meate. Tha<g ref="char:cmbAbbrStroke">̄</g> clo<g ref="char:EOLhyphen"/>the the with goodly and ryche appa<g ref="char:EOLhyphen"/>rell. For the hert of man delyteth in the beholdynge of precyous meates and clothynge. Than rubbe thy tethe with ſome cours lynnyn, or other thyn<g ref="char:EOLunhyphen"/>ge that is hote and drye of compleccy<g ref="char:EOLunhyphen"/>on, and ſwete of ſmell for it is hol<g ref="char:EOLhyphen"/>ſome for the tethe, and kepeth them clene, clenſeth the ſtenche of y<hi rend="sup">e</hi> muoth and clereth the voyce, and gyueth ap<g ref="char:EOLhyphen"/>petyte to eate. And rubbe the heed of<g ref="char:EOLhyphen"/>ten in the ſame wyſe for it openeth the clauſtres of the brayne, and thyc<g ref="char:EOLhyphen"/>keth the necke and other me<g ref="char:cmbAbbrStroke">̄</g>bers, and clenſeth the face and the ſyght, and prolongeth ſtowpynge of age, and a<g ref="char:EOLhyphen"/>mendeth the blode. Alſo anoynt the ſomtyme with ſwete ſmellynge oyn<g ref="char:EOLhyphen"/>tementes, as the tyme requyreth, for in ſuche ſweteneſſe thy herte taketh
+<pb facs="tcp:10108:7"/> great pleaſure, &amp; is nouryſſhed ther<g ref="char:EOLhyphen"/>by. And the ſpyryt of lyfe taketh re<g ref="char:EOLhyphen"/>feccyon in good odoures: and the blod renneth merely throughe<g ref="char:punc">▪</g> the baynes of the body. After that take ſomtyme an electuary of a wood called Aloes / and Rubarbe whiche is a precyous thynge, to the pryce of foure pens, whi<g ref="char:EOLunhyphen"/>che thou ſhalte fynde wrytten in the boke of phyſycke, and this ſhall do the moche good, for it voydeth the heate of the Mouth, of the Stomacke, and warmeth the body and waſteth wyn<g ref="char:EOLhyphen"/>des, and maketh good taſte and ſa<g ref="char:EOLhyphen"/>uoure. After this I councell the that thou be often with thy noble and wy<g ref="char:EOLhyphen"/>ſe menne of thy realme, and ſpeke to them of thy beſyneſſes that thou haſt to do. And gouerne them ſadly accor<g ref="char:EOLhyphen"/>dynge to theyr good cuſtomes.</p>
+            </div>
+            <div type="part">
+               <head>¶ Of the maner to trauayle.</head>
+               <pb facs="tcp:10108:8"/>
+               <p>
+                  <seg rend="decorInit">O</seg>R euer thou eate, or thyne appetyte co<g ref="char:cmbAbbrStroke">̄</g>meth at thyne houre accuſtomed do ſom trauayle, that is to wytte walke or tyde a lytell, or do ſome o<g ref="char:EOLhyphen"/>ther worke, for it helpeth the bodye moche, it a voydeth all ventoſytees, and maketh the body lyghter, ſtron<g ref="char:EOLhyphen"/>ger and luſtyeth the Stomacke, and waſted euyll humours of the body and maketh the flewme of the ſtomacke deſcende.</p>
+            </div>
+            <div type="part">
+               <head>¶ Of the maner of eatynge.</head>
+               <p>¶ Fayre ſone whan thy meate is ſet afore the, eate of ſuche as y<hi rend="sup">u</hi> deſyreſt moſte, reſonably, with well leuayned breed. And eate of ſuche as ought to be fyrſte eaten. For there be two ma<g ref="char:EOLhyphen"/>ners of dygeſtyon of meate in a man, that is to wyt, ſofte, and harde. For in the botto<g ref="char:cmbAbbrStroke">̄</g> is moſte heat for to make meate, bycauſe it is moſte fleſſhely, and nigheſt the heat of the lyuer wher with the meate is ſoden and dygeſted</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:10108:8"/>
+               <head>¶ Of abſtynence of meate.</head>
+               <p>
+                  <seg rend="decorInit">W</seg>Han thou eateſt, eate by leaſure, thoughe y<hi rend="sup">u</hi> haue great appetyte to eate. For yf thou eate gredelye noughty hu<g ref="char:EOLhyphen"/>moures do multyplye the ſtomacke is laden the body is gre<g ref="char:EOLunhyphen"/>ued, the hert is hurte, and the meate remayneth in the ſtomackes botome vndygeſted.</p>
+            </div>
+            <div type="part">
+               <head>¶ Howe pure water ought not to be dronken.</head>
+               <p>
+                  <seg rend="decorInit">A</seg>Lſo beware dereſone that ye drynke no pure water, ſpecyally whan thou haſte eaten meate. But yf thou be wonte therto. For as ſoone as the water is vpon the meat, it coleth the ſtomacke, and quencheth the heate of the dygeſtyon and comfor<g ref="char:EOLunhyphen"/>te of the meate. It letteth dygeſtyon
+<pb facs="tcp:10108:9"/> and greueth the body. Yf thou muſte ned<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s drynke water alone, take it the mooſte temperatlye, and as lytell as thou mayſt.</p>
+            </div>
+            <div type="part">
+               <head>¶ Of the maner to ſlepe.</head>
+               <p>
+                  <seg rend="decorInit">W</seg>Han thou haſt take<g ref="char:cmbAbbrStroke">̄</g> thy refeccyon and haſte luſte to ſlepe lye downe on aſofte bedde and ſlepe te<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>peratly. And fyrſte lye downe on the lefteſyde, and ſlepe theron a reaſonable ſpace, for the lef<g ref="char:EOLhyphen"/>te ſyde is colde and hath nede of war<g ref="char:EOLhyphen"/>meth. And yf thou fele any payne in thy bely or in thy ſtomacke, than lay therto a ſouerayne medycyne, y<hi rend="sup">t</hi> is a warme lynne<g ref="char:cmbAbbrStroke">̄</g> cloth layde theron, wyt thou dere ſone that trauayle is good and gyueth heate to the ſtomacke, but after dyner it is a noughty thynge for the meate abydeth vndygeſted in the
+<pb facs="tcp:10108:9"/> botome of the ſtomacke, and therof be bredde many dyſeaſes. And ſlepe be<g ref="char:EOLhyphen"/>fore fedynge it is not good, for it ma<g ref="char:EOLhyphen"/>keth the body leaue and dryeth the hu<g ref="char:EOLunhyphen"/>moures. But ſlepynge after fedynge is good, for it fulfylleth the body and gyueth force, and nouryſſhynge ther<g ref="char:EOLunhyphen"/>to. For whan the body of man reſteth, than the naturall heate draweth the heate that was ſpredde in all the me<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>bres in to the botome of the ſtomacke and gyueth ſtrengthe therto vpon the refeccyon of the meate. And heate re<g ref="char:EOLhyphen"/>quyreth reſt. Therfore ſome phyloſo<g ref="char:EOLhyphen"/>phers haue ſayd that it is better and holſomer to eat at nyght than in the mornynge, for the eatynge in the mor<g ref="char:EOLunhyphen"/>nynge bycauſe of the heate of the day greueth the ſtomacke, and the body is more trauayled therwith. And more<g ref="char:EOLhyphen"/>ouer the perſon chafeth in trauaylyng doynge his beſyneſſe, in goynge and ſpekynge, and many other thynges that belongeth to the body of man, by
+<pb facs="tcp:10108:10"/> the whiche heate that is outwarde towarde none the naturall heat that is inwarde is weyked &amp; appeyred, and the meate is harde to dygeſt. But at nyght it is more eaſy and leſſe gre<g ref="char:EOLhyphen"/>ued with the heat of traueyle. And the here and members of man ben more in quyet by the coldneſſe of the nyght that gyueth naturall heate to the ſtomacke.</p>
+            </div>
+            <div type="part">
+               <head>¶ The kepynge of cuſtome or wont.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>Hou ſhalte vnderſtande my dere ſone that he that is won<g ref="char:EOLunhyphen"/>te to eate but one meale ofte<g ref="char:cmbAbbrStroke">̄</g> is dyſeaſed, for the ſtomacke is without dygeſtyon &amp; the body hath ſmall nouryſſhynge. And he that is accuſtomed to eate at one tyme ones, another tyme twyſe, he ſhall lyghtly perceyue y<hi rend="sup">t</hi> it doth hym harme, for cuſtome chargeth nature.</p>
+            </div>
+            <div type="part">
+               <head>¶ How one ought to chau<g ref="char:cmbAbbrStroke">̄</g>ge cuſtome.</head>
+               <pb facs="tcp:10108:10"/>
+               <p>
+                  <seg rend="decorInit">A</seg>Nd yf nede con<g ref="char:EOLunhyphen"/>ſtreyne the toch au<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>gethy cuſtome, do it wyſely, that is to wytte by lytell and lytell. And ſo by the grace of god thy chaungynge ſhall be good. But a<g ref="char:EOLunhyphen"/>boue althynges beware that thou ea<g ref="char:EOLhyphen"/>te not tyll thou fele thy ſtomacke emp<g ref="char:EOLunhyphen"/>ty and that it hath made good dygeſ<g ref="char:EOLhyphen"/>tyon of the fyrſt meale. And this thou mayſt knowe by the deſyre that thou ſhalte haue to thy meate: and by thy ſpatle that turneth ſubtylly in thy inouth, And yf thou eate without ne<g ref="char:EOLhyphen"/>de or appetyte the heate of thy Sto<g ref="char:EOLhyphen"/>macke ſhall be made colde as yſe. And yf neceſſyte be that y<hi rend="sup">u</hi> muſt eate, &amp; haue an appetyte therto, the kynde heate of thy ſtomacke wyll be as hote as fyre, and of good dygeſtyon. And beware that whan thy appetyte co<g ref="char:cmbAbbrStroke">̄</g>meth that thou eate not forthwith, for it wyll
+<pb facs="tcp:10108:11"/> gather yll humours of thy body in to thy ſtomacke, whiche wyll hurte thy brayne. And yf thou tary ouer longe or thou eate, it wyll feble thy ſtomac<g ref="char:EOLhyphen"/>ke, and the meate wyll do thy body no good. And yf ſo be that thou mayſte not eate as ſoone as thy appetyce re<g ref="char:EOLhyphen"/>quyreth, and that thy ſtomacke be full of yll humours do ſo that thou mayſt vomyte or thou eate, and after that vomyte take an electuary, &amp; eate ſurely</p>
+            </div>
+            <div type="part">
+               <head>¶ Of the foure ſeaſons of the yeare.</head>
+               <p>
+                  <seg rend="decorInit">O</seg>Vr intencyon is to treat in this boke of the foure ſeaſons of the yere, with the qualyte, property, con<g ref="char:EOLunhyphen"/>traryte, and dyfference of eche of them. And they ben certayne ſeaſons of the yeare deuyded as folo<g ref="char:EOLunhyphen"/>weth. That is to wytte prymtyme or vere begynneth whan y<hi rend="sup">e</hi> ſonne entreth
+<pb facs="tcp:10108:11"/> in the ſygne of Aries, and laſteth. iiij. ſcore and. xiij. dayes, &amp;. xviii. houres, and the fourthe parte of an houre.</p>
+               <p>That is to wyt from the .x. day in the ende of Marche, to the foure &amp; twenty daye of Iune. And in this ſeaſon the dayes &amp; nyghtes benegall of length The wether is fayre. The warme we<g ref="char:EOLunhyphen"/>ther co<g ref="char:cmbAbbrStroke">̄</g>meth. The ſnowes melte, ry<g ref="char:EOLhyphen"/>uers renne ſwyft and clere, and waxe warme, the moyſtneſſe of the earth ry<g ref="char:EOLhyphen"/>ſeth to the heyght of trees, &amp; cauſeth them to ſmell ſwete. Medowes and graynes ſprowte and corne groweth and all floures take coloure, byrdes ben clothed with newe robes, and en<g ref="char:EOLhyphen"/>force them to ſynge. Trees ben dec<g ref="char:EOLhyphen"/>ked with leues &amp; floures, and the lan<g ref="char:EOLhyphen"/>des with ſedes. Beeſtes engender and all people take ſtrength and luſt. The earth is arayed goodly, and is as a fayre bryde clothed with Iewelles of dyuers colours bycauſe ſhe ſhulde ſe<g ref="char:EOLhyphen"/>methe fayrer at her weddynge.</p>
+               <div n="spring" type="season">
+                  <pb facs="tcp:10108:12"/>
+                  <head>¶ Of Prymtyme, and what it is.</head>
+                  <p>
+                     <seg rend="decorInit">T</seg>He prymtyme is hote and moyſte temperatly as the ayre. This ſeaſon y<hi rend="sup">e</hi> blode moeueth and ſpredeth to all the me<g ref="char:cmbAbbrStroke">̄</g>bres of the bo<g ref="char:EOLhyphen"/>dy, and the body is parfyſe intempe<g ref="char:EOLhyphen"/>rate complexyon. In this ſeaſonche<g ref="char:EOLhyphen"/>kyns, kyddes, &amp; poched egges ought to be eaten, with let uſes and gotes mylke in the ſethre monethes. Prym<g ref="char:EOLhyphen"/>tyme begynneth whan the ſonne en<g ref="char:EOLhyphen"/>treth the ſygne of Aries and laſteth. xcii. dayes, an houre and a halfe fro the x daye of Marche to the x. daye of Iune. In this ſeaſon is the beſt let<g ref="char:EOLunhyphen"/>tynge of blode of any tyme. And than is good to trauayle and to be laxatyfe And to be bathed. And to eate ſuche thynges as wyll purge the bely. For all dyſeaſes that co<g ref="char:cmbAbbrStroke">̄</g>meth, eyther by purgynge or bledynge, retorneth a<g ref="char:EOLhyphen"/>none in this Prymetyme.</p>
+               </div>
+               <div n="summer" type="season">
+                  <pb facs="tcp:10108:12"/>
+                  <head>¶ Of ſomer and what it is.</head>
+                  <p>
+                     <seg rend="decorInit">S</seg>Omer begynneth whan y<hi rend="sup">e</hi> Sonne entreth the fyrſte poynt of the creuyce, and laſteth .xcij. dayes, and an houre and a halfe. That is to wyt fro the .x. day of Iune to the .x. daye of September. In this ſeaſon the dayes be longe and the nyghtes ſhort. And in all regyons encreaſeth and abateth theyr heate and the ſee is calme, and the ayre mek and fayre The flours wyther and ſerpentes en<g ref="char:EOLhyphen"/>creaſe and ſhed theyr venym, &amp; ſprede theyr ſtrength. The myghtes of man<g ref="char:EOLunhyphen"/>nes body be fortyfyed. And all y<hi rend="sup">e</hi> worl<g ref="char:EOLhyphen"/>de is full of welth, as the fayre bryde that is goodly ſtature and in perfyte age. The ſeaſon of ſomer hote &amp; drye, and than coler is moeued. And in this ſeaſon is good to bewar<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> of al thyn<g ref="char:EOLhyphen"/>ges that be hote and drye of complexy<g ref="char:EOLunhyphen"/>on. And take hede of to moche eatyn<g ref="char:EOLhyphen"/>ge
+<pb facs="tcp:10108:13"/> or drynkynge for therby is y<hi rend="sup">e</hi> kynd<g ref="char:EOLhyphen"/>ly heate que<g ref="char:cmbAbbrStroke">̄</g>ched In this ſeaſon eate meates of colde and moyſt complexy<g ref="char:EOLunhyphen"/>on, as deale, mylke with vyneygre, &amp; potages made with barly meale. Ea<g ref="char:EOLhyphen"/>te fruyt of eygre ſauour, as Po<g ref="char:cmbAbbrStroke">̄</g>me<g ref="char:EOLhyphen"/>garnetes, and drynke ſmall wynes, and vſe not the company of women. In this ſeaſon let the not blode, but yf great nede compell the. Vſe lytell trauayle, and ſeldome bathynge.</p>
+               </div>
+               <div n="autumn" type="season">
+                  <head>¶ Of Autumpne, or herueſt.</head>
+                  <p>
+                     <seg rend="decorInit">H</seg>Erueſt entreth whan the ſonne co<g ref="char:cmbAbbrStroke">̄</g>meth in to the fyrſte degre of the balaunce and laſteth .xci. dayes and an hou<g ref="char:EOLhyphen"/>re and a halfe. That is to wyt fro the .x. daye of Septembre to the .x. daye of Decembre. In this ſeaſon the daye and nyght be of one lengthe. And than the dayes waxe
+<pb facs="tcp:10108:13"/> ſhorte &amp; the nyghtes longe. The ayre is <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>rke, and the Wyndes entre the North<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n regyons or ſeptentryon.</p>
+                  <p>The wether chaungeth, and the Ry<g ref="char:EOLhyphen"/>uers and Sprynges waxe leſſe. The Orcheyardes and Fruytes wydereth. The beautye of the Earth faydeth. Byrdes ceaſe theyr ſyngynge. Ser<g ref="char:EOLhyphen"/>pentes ſeke theyr holes where they aſſembled theyr lyuynge in Somer for the tyme of Wynter. The earth is as an olde naked woman that go<g ref="char:EOLhyphen"/>eth from youth to age. This ſeaſon of Harueſt is colde and drye, this ty<g ref="char:EOLhyphen"/>me blacke coler is moeued. In this ſeaſon is good to eate meates that be hote and moyſt as Chekyns, Lam<g ref="char:EOLhyphen"/>be, and drynke olde Wynes, eate ſwe<g ref="char:EOLunhyphen"/>te Reaſyns. And kepe the from all thynges that brede blacke coler, as lyenge with Women more than in ſomer, nor bathe the not but yf great nede requyre it to be done In this ſea<g ref="char:EOLunhyphen"/>ſon yf a man haue nede of vomytyn<g ref="char:EOLhyphen"/>ge,
+<pb facs="tcp:10108:14"/> do it at noone in the hoteſt of the daye. For at that tyme all the ſuper<g ref="char:EOLhyphen"/>fluytes of ma<g ref="char:cmbAbbrStroke">̄</g>nes body gathereth to<g ref="char:EOLunhyphen"/>gyther. Alſo it is good to purge the Bely with a medycyne ordeynen ther<g ref="char:EOLunhyphen"/>fore and other thynges that ben to expulce blacke coler and to refrayne humours.</p>
+               </div>
+               <div n="winter" type="season">
+                  <head>¶ Of Wynter and wha it is.</head>
+                  <p>
+                     <seg rend="decorInit">W</seg>Ynter co<g ref="char:cmbAbbrStroke">̄</g>meth wha<g ref="char:cmbAbbrStroke">̄</g> the Sonne entreth the fyrſte degre of the ſygne of Capry<g ref="char:EOLunhyphen"/>corne and laſteth .lxx. dayes, and an houre and a halfe. And begynneth the x. daye of Decembre, and contynueth to the .x. daye of Marche. In this ſea<g ref="char:EOLhyphen"/>ſon the nyghtes ben longe and the dayes ſhort, it is verye colde. The wy<g ref="char:EOLhyphen"/>nes be in the preſſe, and the leues fall,
+<pb facs="tcp:10108:14"/> and Herbes leeſeth all theyr ſtrength or the moſte parte. All Beſtes hydeth them in Caues and Pyttes of Hylles. The ayre and the wether is darke.</p>
+                  <p>And the earth is lyke an olde decrypy<g ref="char:EOLhyphen"/>te perſone, that by great age is na<g ref="char:EOLhyphen"/>ked and nyghe to the death. Wynter is verye colde and moyſt, and than be<g ref="char:EOLhyphen"/>houeth the to vſe hote Meates, as Chekyns, Hennes, Motton and other hote and fatte fleſſhe, eate Fygges, Nuttes, and drynke grene Wynes. And beware of to moche laxe and ble<g ref="char:EOLhyphen"/>dynge, and eſchewe company of wo<g ref="char:EOLhyphen"/>men, for it wyll feble thy Stomacke, and bathes be good. And for the great colde the naturall heate entreth into the body, and therfore the dygeſtyon is better in Wynter than in Somer. And in Herueſt the Bely is colde, and than the poores ben open by heate of the ſeaſon, and reproueth the natu<g ref="char:EOLhyphen"/>rall heate of all the partes of the bo<g ref="char:EOLhyphen"/>dy. And therfore the Stomacke hath
+<pb facs="tcp:10108:15"/> but lytell heate, wherby the dygeſty<g ref="char:EOLhyphen"/>on is febled, and the humours aſſem<g ref="char:EOLhyphen"/>ble there.</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>¶ Of naturall heate.</head>
+               <p>
+                  <seg rend="decorInit">S</seg>One Alexander I praye the kepe the kyndly heate of thy body, and thou ſhalt haue longe health. For the body of man dyeth in. ii. maners. One is by great age the whiche ouer<g ref="char:EOLhyphen"/>co<g ref="char:cmbAbbrStroke">̄</g>meth the bodye and dyſtroyeth it. The other is accydentally, as by we<g ref="char:EOLhyphen"/>pynge, ſyckeneſſe or other aduenture.</p>
+            </div>
+            <div type="part">
+               <head>¶ Of thynges that fat<g ref="char:EOLhyphen"/>teth the body.</head>
+               <pb facs="tcp:10108:15"/>
+               <p>
+                  <seg rend="decorInit">R</seg>Yght dere ſone theſe be<g ref="char:cmbAbbrStroke">̄</g> thynges that fatteth the bodye. That is to wytte eaſe of the bodye and fyllynge it with deynty meates &amp; dryn<g ref="char:EOLhyphen"/>kes, and Mylke, and than to ſlepe on a ſofte bed. All ſwete ſmellynge flou<g ref="char:EOLhyphen"/>res in theyr ſeaſon, and bathynge in freſſhe Waters. But yf thou bathe the, tary not longe in it, and haue ſwe<g ref="char:EOLunhyphen"/>te ſmellynge thynges in the Bathe. And neuer drynke Wyne but it be well tempered with water. And ſpecyallye in Wynter make water of floures called Aſſynini and put it in to thy Wyne, for it is hote of nature. And in Somer vſe Vyoletes and floures of Malowes and other thynges that be colde, and vſe to vomyte ones in a moneth ſpecyally. For vomytes waſ<g ref="char:EOLhyphen"/>ſheth the body and purgeth it of wyc<g ref="char:EOLhyphen"/>ked humours and ſtynke that is in it. And yf there be but fewe humours in
+<pb facs="tcp:10108:16"/> the Stomacke, it comforteth the na<g ref="char:EOLhyphen"/>turall heate. And whan thou haſt vo<g ref="char:EOLhyphen"/>myted dwyllyngly, the body wyll fyll it with good humydyte &amp; be of good dyſpoſycyon to dygeſt. And yf thou gouernethe thus, thou ſhalt be mery at thy Herte, luſty with reaſonable healh and good vnderſtandynge, glo<g ref="char:EOLhyphen"/>ry and honour, and ouer all thyne ene<g ref="char:EOLunhyphen"/>myes vyctory. Alſo I wyll that thou delyte in the beholdynge of goodlye perſons, or in redynge of delectable bokes, or in werynge of precyous gar<g ref="char:EOLunhyphen"/>mentes, and goodly Iewelles, as the tyme requyreth.</p>
+            </div>
+            <div type="part">
+               <head>¶ Of thynges that leaneth the bodye.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>Heſe be the thynges that maketh the Bodye to be leane, weyke, and drye, to moche eatynge, to mo<g ref="char:EOLunhyphen"/>che trauelynge, to moche
+<pb facs="tcp:10108:16"/> walkynge in the ſonne, to moche go<g ref="char:EOLhyphen"/>ynge, to moche ſlepynge afore noone melancoly, feare, to Bathe in water of the nature of brymſtone, eatynge ſalte meates, to moche drynkynge of olde wyne, to be to laxe, and ouer mo<g ref="char:EOLhyphen"/>che lettynge of Blode. For Ypocras ſayth that he that Bathe hym with a full Bely, or lyeth with a Woman ſhall haue ſyckeneſſe in his entray<g ref="char:EOLhyphen"/>les. And alſo to renne, or to ryde, or to moche trauayle after meate bre<g ref="char:EOLhyphen"/>deth a great dyſeaſe called Palſey. And moche eatynge of fyſſhe, or myl<g ref="char:EOLhyphen"/>ke and wyne togather ypocras ſayth it wyll make one lazar.</p>
+            </div>
+            <div type="part">
+               <head>¶ Of the fyrſt parte of the body.</head>
+               <p>
+                  <seg rend="decorInit">O</seg>F the foure partes of the body the heed is the fyrſt For in the beed gadereth all ſuperfluytes, and e<g ref="char:EOLhyphen"/>uyll Humours, whiche
+<pb facs="tcp:10108:17"/> thou ſhalte ſele and knowe by theſe ſygnes folowynge. The eyes be<g ref="char:cmbAbbrStroke">̄</g> trou<g ref="char:EOLhyphen"/>bled, the herynge is thycked and the noſe ſtrylles ben ſtopped, yf thou fele ſuche a dyſeaſe take an Herbe called wormwood, and ſethe it in ſwetewy<g ref="char:EOLhyphen"/>ne tyll the halfe be waſted, than hol<g ref="char:EOLhyphen"/>deit in thy mouth and waſſhe it ma<g ref="char:EOLhyphen"/>ny tymes therwith tyll thou fele that it doth the good, and eate whyte Mu<g ref="char:EOLhyphen"/>ſtarde ſede powdred with thy meate. And yf thou do not thus thou mayſt happen to haue ſome dyſeaſe, and ſpe<g ref="char:EOLunhyphen"/>cyally inthyne eyes, in thy brayne, &amp; in other partes of thy body.</p>
+            </div>
+            <div type="part">
+               <head>¶ Of the ſeconde parte of the body.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>He ſeconde parte of the bo<g ref="char:EOLhyphen"/>dy is the bulke, yf dyſeaſe come there thou ſhalt know it by theſe ſygnes folowyn<g ref="char:EOLhyphen"/>ge. The tongue is lette, the
+<pb facs="tcp:10108:17"/> mouth is ſalt, bytter, and vnſauer<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. The mouth of the Stomacke ſowre withgreſe in all thy membres. It be<g ref="char:EOLhyphen"/>houeth the to eate but lytell and to vo<g ref="char:EOLunhyphen"/>myte, than eate a lytell Suger of ro<g ref="char:EOLhyphen"/>ſes with aloes and take good comfor<g ref="char:EOLunhyphen"/>tynge ſpyces and eate an elctuary na<g ref="char:EOLunhyphen"/>med Dioniſium. And yf thou do not thus, thou mayſt fall in dyſeaſes of that ſyde, of the Raynes, and Feuers and ſpecyally of the Tongue wherby thou ſhalt not properly ſpeke, and dy<g ref="char:EOLunhyphen"/>uers other maladyes. Decoccyon of Yyſope is good.</p>
+            </div>
+            <div type="part">
+               <head>¶ Of the thyrde parte of the body.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>He thyrde parte of y<hi rend="sup">e</hi> body is the wombe, yf it be combred with euyll Humours thou ſhalt knowe it by theſe ſyg<g ref="char:EOLhyphen"/>nes. The Bely wyll Swell with payne and ſtyfneſſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in the knees,
+<pb facs="tcp:10108:18"/> goynge a ſlowe pace. It behoueth to vſe ſome ſubtyle and lyght Meates, as is ſayd before with the gouernyn<g ref="char:EOLhyphen"/>ge. And yf thou do not thus there wyl folowe ache in the hyppes, in the myl<g ref="char:EOLunhyphen"/>te, in the backe, and other ioyntes, and in the lyuer, with yll dygeſtyon.</p>
+            </div>
+            <div type="part">
+               <head>¶ Of the fourth parte of the body.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>He fourth parte of the bo<g ref="char:EOLunhyphen"/>dy ben the genytours. Yf ſuperfluyte and noughty humours gather in them thou ſhalt knowe by the<g ref="char:EOLhyphen"/>ſe ſygnes. The appetyte wyll waxe colde, and redneſſe wyll appere vpon them and vpon the ſhare. Than muſt thou take a ſede called Api<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> with Fe<g ref="char:EOLhyphen"/>nellſede and the roote of Mugwort, and of another called Acham, and a<g ref="char:EOLhyphen"/>tracies. And with theſe Herbes put the Rotes in good whyte Wyne, and
+<pb facs="tcp:10108:18"/> drynke a qua<g ref="char:cmbAbbrStroke">̄</g>tyte of it euery mornynge with a lytell water and hony and eate not moche after it. And yf thou do not thus thou ſhalte haue Payne in the Bladder, and Lyuer, and ſhalte not pyſſe, and ſhalt haue grefe in the In<g ref="char:EOLhyphen"/>trayles and Lunges with brekynge of the Stone. Swete ſone Alexander I haue rede alſo the Hyſtoryes of a myghty kynge, whiche aſſembled all the beſt Phyloſophers that were in Ynde and Grece, co<g ref="char:cmbAbbrStroke">̄</g>maunded them to make a medycyne ſo profytable that he ſhuld nede none other for his helth. The Grekes ſayd he that Drynketh euery Mornynge twyſe his Month<g ref="char:EOLhyphen"/>full of warme Water ſhall haue a good ende, and ſhall nede none other medycyne. The Phyſycyons of Ynde ſayd that it is good to eate eueryday Faſtynge aquantyte of Greynes of whytehony. And meſemeth that who ſo taketh one of theſe ſayd Medycy<g ref="char:EOLhyphen"/>nes by reaſon ſhall not haue payne in
+<pb facs="tcp:10108:19"/> his Wombe, nor ought not to feare Palſey, nor Gowte, nor ache in his Ioyntes. And who ſo Eateth euery mornynge. vij. Dragmas of cluſters of ſwete Wyne grapes, ſhall not fea<g ref="char:EOLunhyphen"/>re that dyſeaſe of flew me, and it wyll a mende his mynde, and claryfye his vnderſtandynge, and he nedeth not to doubte Feuer quattaynes. And who ſo Eateth in the Mornynge a Fygge with Nuttes and aquantyte of leues of Rue, that day ſhall not nede to fea<g ref="char:EOLunhyphen"/>re Venym.</p>
+            </div>
+            <div type="part">
+               <head>¶ Of naturall heate.</head>
+               <p>
+                  <seg rend="decorInit">M</seg>Oſte myghty kyng I requyre the to ſtu<g ref="char:EOLunhyphen"/>dy the maner to ke<g ref="char:EOLhyphen"/>pe the naturall hea<g ref="char:EOLunhyphen"/>te of thy body, with the moyſture ther<g ref="char:EOLhyphen"/>of, in the whiche. ij. thynges lyeth the
+<pb facs="tcp:10108:19"/> helth of the perſon. And knowe thou that the dyſtruccyon of the bodye co<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>meth in two thynges, one is natu<g ref="char:EOLhyphen"/>rall, and the other is agaynſt nature. And for the contraryte of the co<g ref="char:cmbAbbrStroke">̄</g>plexy<g ref="char:EOLhyphen"/>on of man, and whan age ſurmoun<g ref="char:EOLhyphen"/>teth the bodye it behoueth for to dye. Otherwyſe vnnaturally by aduentu<g ref="char:EOLhyphen"/>re, as by wepynge, or ſtones, or by ſyc<g ref="char:EOLhyphen"/>keneſſes and lacke of helpe, or by Ve<g ref="char:EOLhyphen"/>nym: and other chaunces.</p>
+            </div>
+            <div type="part">
+               <head>¶ Of the qualytes of Meates.</head>
+               <p>
+                  <seg rend="decorInit">F</seg>Vrther more it is good y<hi rend="sup">t</hi> thou knowe the nature of mea<g ref="char:EOLhyphen"/>tes, for ſome ben groſſe, orcours, and ſome ben lyght and ſubtyle. The ſub<g ref="char:EOLhyphen"/>tyle bredeth thynne blode, and good, as pure whyte, Che<g ref="char:EOLhyphen"/>kyns,
+<pb facs="tcp:10108:20"/> and newe layde Egges Groſſe meates ben good for ſuche as ben of hote humours, Labourers, faſtynge, and that ſlepe after meales. Meane meates bredeth no Hote nor ſuper<g ref="char:EOLhyphen"/>fluous Humours, as the Fleſſhe of La<g ref="char:cmbAbbrStroke">̄</g>bes, yonge Porke, and other that ben hote and moyſt, but ſuche meates chau<g ref="char:cmbAbbrStroke">̄</g>ge often in roſtynge to hardneſſe to heate, &amp; dryeneſſe. And they ought to be eaten forthwith after roſtynge, and ben good yf they be ſo taken with good ſpyces. Some meates bredeth melancoly, as Befe Cowes Fleſſhe, and all Fleſſhe that is cours and drye Other that bredeth and fede in moyſt and watry, and ſhadowy places ben more ſubtyle, better and holſomeſt.</p>
+            </div>
+            <trailer>¶ FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <pb facs="tcp:10108:20"/>
+            <p>¶ Imprynted by me Robert wyer Dwellynge at the Sygne of Seynt Iohn<g ref="char:cmbAbbrStroke">̄</g> Euan<g ref="char:EOLhyphen"/>gelyſt, in Seynt Mar<g ref="char:EOLhyphen"/>tyns Paryſſhe beſyde Charynge Croſſe.</p>
+            <p>
+               <figure>
+                  <figDesc>three blazons</figDesc>
+               </figure>
+            </p>
+            <pb facs="tcp:10108:21"/>
+            <p>
+               <figure>
+                  <figDesc>printer's devices of Robert Wyer (McKerrow 68 and 69): "cut of St. John the Evangelist with eagle" above "the name and mark of Robert Wyer"</figDesc>
+                  <p>ROBERT WYER.</p>
+               </figure>
+            </p>
+            <pb facs="tcp:10108:21"/>
+         </div>
+      </back>
+   </text>
+</TEI>
